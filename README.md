@@ -66,11 +66,12 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![WhatsApp Image 2025-12-05 at 10 46 13_d7a020db](https://github.com/user-attachments/assets/7c1d6dd4-c40c-42e9-b866-d20e7fec6af5)
 <img width="1920" height="1080" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/0576689f-31c5-4ffb-a486-8e3241be031d" />
 <img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/bc724ef0-2d5b-4774-847d-4fc3791be2ff" />
-<img width="1920" height="1080" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/33d0fb69-aed4-439f-9959-3369439cd821" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/628d164f-4873-498f-af3d-6a45f913b12a" />
+
 <img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/ac144e8a-9653-43be-b4b2-b9fbee147b9e" />
 <img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/18d29cdc-2629-4ecb-8121-5892ffbca321" />
 <img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/7fdedc5c-8abf-47d8-a23f-0b9b810b0972" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62427120-e5ec-4086-a72f-d1a9191fa50f" />
+
 
 
 
